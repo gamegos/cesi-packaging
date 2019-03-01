@@ -2,7 +2,7 @@ FROM python:3.7.2
 
 LABEL maintainer="Fatih Sarhan <f9n@protonmail.com>"
 
-ENV CESI_VERSION 2.6.6
+ENV CESI_VERSION 2.6.7
 ENV SETUP_PATH /opt/cesi
 ENV CESI_CONFIG_PATH /etc/cesi.conf.toml
 
